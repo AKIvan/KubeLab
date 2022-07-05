@@ -1,0 +1,3 @@
+[submodule "DevOps"]
+	path = DevOps
+	url = git@github.com:AKIvan/DevOps.git
